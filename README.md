@@ -77,7 +77,13 @@ python hand_gesture.py
 
 ## 📸 Demo
 
-Demo screenshots can be found in the `images` folder.
+### ✋ Open Palm
+
+![Open Palm](images/open_palm.png)
+
+### ✊ Fist
+
+![Fist](images/fist.png)
 
 ---
 
